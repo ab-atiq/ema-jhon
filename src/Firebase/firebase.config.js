@@ -9,12 +9,12 @@
 // };
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDy9x9mL0PcOwjvooHH_JChPAjwXaA8MVw",
-    authDomain: "ema-jhon-authentication-37970.firebaseapp.com",
-    projectId: "ema-jhon-authentication-37970",
-    storageBucket: "ema-jhon-authentication-37970.appspot.com",
-    messagingSenderId: "614952278105",
-    appId: "1:614952278105:web:0494b2176f557aaed4f948"
+  apiKey: "AIzaSyAWRHXetn7BWPUDJC1XonOA0-xLSIJ8TiQ",
+  authDomain: "ema-jhon-project-f0197.firebaseapp.com",
+  projectId: "ema-jhon-project-f0197",
+  storageBucket: "ema-jhon-project-f0197.appspot.com",
+  messagingSenderId: "656015851499",
+  appId: "1:656015851499:web:c9e353bc94085ce50423ae",
 };
 
 export default firebaseConfig;
